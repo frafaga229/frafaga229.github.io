@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student @ INRIA"
   location         : "Sophia Antipolis, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5IMHocUAAAAJ&hl=en"
   email            : "franz.franco-gallo@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/franz-franco-64819593/"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "Frafaga229"
